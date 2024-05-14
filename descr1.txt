@@ -1,0 +1,7 @@
+created blank python project on jacdoman.w3schools (easy, no issues)
+created https://github.com/DomanskiJacek/ver5/tree/main repository
+git push from jacdoman.w3schools to github/ver5  (disconnect ver4)
+
+local:
+copy ver2/db.sqlite3   to ver5
+
